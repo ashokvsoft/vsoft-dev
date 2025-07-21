@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
     <main>
-        <section class="scroll-section case-s-sec">
+        <section class="scroll-section case-s-sec" >
             <div class="container mt-5">
                 <div class="title-sec">
                     <h3>Case Studies</h3>
@@ -258,7 +258,7 @@
             </div>
                 
         </section>
-        <section class="scroll-section feedback-sec">
+        <section class="scroll-section feedback-sec" >
             <div class="container mt-5">
                 <div class="title-sec">
                     <h3>Feedback From Reality!</h3>
@@ -334,8 +334,305 @@
             </div>
                 
         </section>
-        
-        
+        <!-- 18july25 -->
+        <section class="scroll-section we-serve-sec"  >
+            <div class="container mt-5">
+                <div class="title-sec">
+                    <h3>Industries We Serve</h3>
+                    <h2 style="margin-bottom:0px">Tailored IT Solutions for Every Business Sector</h2>
+                    <p>Let Us Transform Your Ideas Into ROI-Driven Projects!</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="serve-title-sec red-bg">
+                                <div class="image-sec">
+                                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Frame-b-coin.png">
+                                </div>
+                                <div class="title-sec-card">
+                                    Banking & Finance
+                                </div>
+                                
+                            </div>
+                            <div class="industries-details details-yellow-bg">
+                                <p>Accelerate a secure, compliant, & customer centric financial world with V-Soft. Our solutions automate operations, increase customer trust, and maximize risk management.</p>
+                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="serve-title-sec red-bg">
+                                <div class="image-sec">
+                                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/healthcare.png">
+                                </div>
+                                <div class="title-sec-card">
+                                    Healthcare
+                                </div>
+                                
+                            </div>
+                            <div class="industries-details details-red-bg">
+                                <p>From automating workflows to improving efficiencies, we deliver scalable digital solutions that modernize healthcare operations.</p>
+                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="serve-title-sec green-bg">
+                                <div class="image-sec">
+                                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/retail-ecommerce.png">
+                                </div>
+                                <div class="title-sec-card">
+                                    Retail & eCommerce
+                                </div>
+                                
+                            </div>
+                            <div class="industries-details details-green-bg">
+                                <p>Provide personalized shopping experiences to your customers. Our IT consultants assist retailers in scaling quickly with automation, real-time insights, and omnichannel platforms.</p>
+                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="serve-title-sec green-bg">
+                                <div class="image-sec">
+                                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/manufacturing.png">
+                                </div>
+                                <div class="title-sec-card">
+                                    Manufacturing
+                                </div>
+                                
+                            </div>
+                            <div class="industries-details details-green-bg">
+                                <p>Digitizing production floors and optimizing operations with intelligent automation. Our AI/ML and RPA solutions minimize downtime and drive robust industry transformation.</p>
+                                <button>know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="serve-title-sec blue-bg">
+                                <div class="image-sec">
+                                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/education.png">
+                                </div>
+                                <div class="title-sec-card">
+                                    Education
+                                </div>
+                                
+                            </div>
+                            <div class="industries-details details-blue-bg">
+                                <p>From virtual learning platforms to automated workflows, V-Soft enables smarter learning environments and transforms how educational institutions deliver services.</p>
+                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="serve-title-sec yellow-bg">
+                                <div class="image-sec">
+                                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/government.png">
+                                </div>
+                                <div class="title-sec-card">
+                                    Government
+                                </div>
+                                
+                            </div>
+                            <div class="industries-details details-yellow-bg">
+                                <p>Powering public services with efficient, citizen centered digital solutions. We assist agencies in automating processes, augmenting data security, and enhancing service delivery.</p>
+                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- 21Jul25 -->
+        <section class="scroll-section blog-sec">
+            <div class="container mt-5">
+                <div class="title-sec">
+                    <!-- <h3>Our Latest Blog Posts</h3> -->
+                    <h2 style="margin-bottom:0px">Our Latest Blog Posts</h2>
+                    <p>Access NextGen IT Services That Drive Innovation and Accelerate Change Faster</p>
+                </div>
+                
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
+                            </div>
+                            <div class="details-sec">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
+                            </div>
+                            <div class="details-sec">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
+                            </div>
+                            <div class="details-sec">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
+                            </div>
+                            <div class="details-sec">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
+                            </div>
+                            <div class="details-sec">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
+                            </div>
+                            <div class="details-sec">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <section class="scroll-section why-choose-vsoft-sec">
+            <div class="row" >
+                
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Ellipse-top.png" class="top-bg">
+                    <!-- Carousel Wrapper -->
+                    <div class="my-5 experties-slide" >
+                        <div class="owl-carousel owl-theme" id="expertise-carousel">
+
+                            <!-- Slide 1 -->
+                            <div class="item">
+                                <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                    <h6 class="text-primary mb-2">28+ Years of Proven Expertise</h6>
+                                    <p class="mb-0 small">
+                                    Certified professionals across ServiceNow, Salesforce, AI, RPA, MuleSoft, and more.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Slide 2 -->
+                            <div class="item">
+                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                <h6 class="text-success mb-2">Client<br><span class="fw-bold">First Approach</span></h6>
+                                <p class="mb-0 small">
+                                We tailor every digital solution and service to your unique goals, workflows, & challenges.
+                                </p>
+                            </div>
+                            </div>
+
+                            <!-- Slide 3 -->
+                            <div class="item">
+                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                <h6 class="text-warning mb-2">Flexible Engagement<br>Models</h6>
+                                <p class="mb-0 small">
+                                We tailor every digital solution and service to your unique goals, workflows, & challenges.
+                                </p>
+                            </div>
+                            </div>
+
+                            <!-- Slide 4 -->
+                            <div class="item">
+                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                <h6 class="text-danger mb-2">Innovation-Driven<br>Solutions</h6>
+                                <p class="mb-0 small">
+                                We combine cutting-edge technology with strategic thinking to fuel business growth.
+                                </p>
+                            </div>
+                            </div>
+
+                            <!-- Slide 5 -->
+                            <div class="item">
+                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                <h6 class="text-primary mb-2">Global Delivery and Excellence</h6>
+                                <p class="mb-0 small">
+                                With nearshore, offshore, and on-site options, faster services & cost savings are our focus.
+                                </p>
+                            </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Ellipse-b.png" class="buttom-bg">
+                </div>
+            </div>
+        </section>
+        <style>
+                  
+            </style>
+            
         <section class="scroll-section" style="background: lightcoral;">
             <h2>Section 2</h2>
         </section>

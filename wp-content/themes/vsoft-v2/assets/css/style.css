@@ -85,7 +85,7 @@ font-size: 1.4rem;
     background: #ffffff;
 }
 .case-s-sec .carousel-background{
-    padding: 57px 44px 0px 44px;
+    padding: 40px 44px 0px 44px;
     height: auto;
     background: url(http://localhost/vsoft-dev/wp-content/uploads/2025/07/color-bg.png);
     background-size: cover;
@@ -128,6 +128,9 @@ gap: 15px;
 .percentage-box .percentage-text{
     font-size: 14px;
 }
+.cta-sec{
+    margin-bottom: 20px;
+}
 .cta-sec button{
     background: linear-gradient(to top, #253779 0%, #2E4EC7 100%);
     border: none;
@@ -141,7 +144,7 @@ gap: 15px;
 }
 .explore-cta{
     text-align: center;
-    margin-top: 35px;
+    margin-top: 25px;
 }
 .explore-cta button{
         background: linear-gradient(to top, #253779 0%, #2E4EC7 100%);
@@ -234,6 +237,125 @@ font-size: 18px;
     background: transparent;
     color: #0099CB;
 }
+/* industries section style start*/
+.card-bg{
+    margin-bottom: 20px;
+}
+.we-serve-sec .serve-title-sec{
+    border-radius: 20px 20px 0px 0px;
+    font-size: 34px;
+    font-weight: 600;
+    color: #ffffff;
+    margin: 0px;
+    overflow: hidden; 
+    padding-bottom: 3%;
+}
+    .we-serve-sec .red-bg{
+    background: linear-gradient(to right, #BF3627 0%, #E65C4D 100%);
+    }
+    .we-serve-sec .yellow-bg{
+    background: linear-gradient(to right, #FCDD07 0%, #FFFA89 100%);
+    }
+    .we-serve-sec .green-bg{
+    background: linear-gradient(to right, #719B42 0%, #91BA61 100%);
+    }
+    .we-serve-sec .blue-bg{
+    background: linear-gradient(to right, #253779 0%, #2E4EC7 100%);
+    }
+
+    .we-serve-sec .image-sec img{
+    height: 200px;
+    }
+.we-serve-sec .image-sec{
+    text-align: right;
+    transition: transform 0.3s ease-in-out;
+    -webkit-transition: -webkit-transform 0.3s ease-in-out;
+    -ms-transition: -ms-transform 0.3s ease-in-out;
+}
+.we-serve-sec .image-sec:hover{
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.we-serve-sec .serve-title-sec .title-sec-card{
+    margin-left: 20px;
+}
+.we-serve-sec .industries-details{
+    line-height: 1.5;
+    font-size: 17px;
+    padding: 10px 20px 17px 20px;
+}
+.details-yellow-bg{
+    background-color: #FEFEE8;
+}
+.details-red-bg{
+    background-color: #FDF4F3;
+}
+.details-green-bg{
+    background-color: #F4F8ED;
+}
+.details-blue-bg{
+    background-color: #F0F5FE;
+}
+/* industries section style end*/
+
+/* BLog Section */
+.blog-sec img{
+    width: 100%;
+    overflow: hidden;
+    border-radius: 20px 20px 0px 0px;
+    height: 148px;
+
+}
+.blog-sec .details-sec{
+    background-color: #F0F5FE;
+    padding: 10px 20px;
+    border-radius: 0px 0px 20px 20px;
+}
+.details-sec .published-date{
+    font-size: 14px;
+    margin-bottom: .6rem;
+
+}
+.details-sec h2{
+    font-size: 18px;
+    margin-bottom: .6rem;
+    font-weight: 600;
+}
+/* why-choose-vsoft-sec css */
+    .owl-carousel { display: block; }
+
+    #expertise-carousel .owl-item .card {
+        min-height: 200px;
+        border-radius: 12px;
+        background: #fff;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    }
+    #expertise-carousel .card h6 {
+        font-weight: 700;
+        font-size: 1.1rem;
+    }
+    #expertise-carousel .card p {
+        color: #333;
+    }   
+    .why-choose-vsoft-sec{
+        position: relative;
+    }
+    .top-bg{
+        position: absolute;
+        top: 315px;
+        left: 0;
+        z-index: 9;
+    }
+    .buttom-bg{
+        z-index: 9;
+        position: absolute;
+        bottom: 365px;
+        left: 0;
+    }
+    #expertise-carousel .owl-item .card{
+        border-radius:0px;
+    }
 
 @media (max-width: 1200px) { 
     .we-serve-sec .serve-title-sec{
