@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
     <main>
-        <section class="case-s-sec pt-5 pb-5"  style="display: none">
+        <section class="case-s-sec pt-5 pb-5" >
             <div class="container  ">
                 <div class="title-sec">
                     <h3>Case Studies</h3>
@@ -258,7 +258,7 @@
             </div>
                 
         </section>
-        <section class="feedback-sec pt-5 pb-5"  style="display: none">
+        <section class="feedback-sec pt-5 pb-5" >
             <div class="container">
                 <div class="title-sec">
                     <h3>Feedback From Reality!</h3>
@@ -335,7 +335,7 @@
                 
         </section>
         <!-- 18july25 -->
-        <section class="we-serve-sec pt-5 pb-5"  style="display: none" >
+        <section class="we-serve-sec pt-5 pb-5"  >
             <div class="container  ">
                 <div class="title-sec">
                     <h3>Industries We Serve</h3>
@@ -455,7 +455,7 @@
             </div>
         </section>
         <!-- 21Jul25 -->
-        <section class="blog-sec pt-5 pb-5" style="display: none">
+        <section class="blog-sec pt-5 pb-5">
             <div class="container  ">
                 <div class="title-sec">
                     <!-- <h3>Our Latest Blog Posts</h3> -->
@@ -565,7 +565,7 @@
             </div>
         </section>
 
-        <section class="why-choose-vsoft-sec pt-5 pb-5"  style="display: none">
+        <section class="why-choose-vsoft-sec pt-5 pb-5" >
             <div class="row" >
                 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
@@ -640,7 +640,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-6">
                         <div class="accordion">
-                            <div class="accordion-item">
+                            <div>
                             <button id="accordion-button-1" aria-expanded="false">
                                 <span class="accordion-title">Does V-Soft provide scalable IT solutions that grow with my business?</span>
                                 <span class="icon" aria-hidden="true"></span>
@@ -649,7 +649,7 @@
                                 <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
                             </div>
                             </div>
-                            <div class="accordion-item">
+                            <div>
                             <button id="accordion-button-2" aria-expanded="false">
                                 <span class="accordion-title">What sets V-Soft apart as a leader in IT staffing and consulting services?</span>
                                 <span class="icon" aria-hidden="true"></span>
@@ -658,7 +658,7 @@
                                 <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
                             </div>
                             </div>
-                            <div class="accordion-item">
+                            <div>
                             <button id="accordion-button-3" aria-expanded="false">
                                 <span class="accordion-title">How is V-Soft’s recruiting process better than traditional staffing firms?</span>
                                 <span class="icon" aria-hidden="true"></span>
@@ -667,7 +667,7 @@
                                 <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
                             </div>
                             </div>
-                            <div class="accordion-item">
+                            <div>
                                 <button id="accordion-button-4" aria-expanded="false">
                                     <span class="accordion-title">What makes V-Soft Consulting a trusted ServiceNow Partner?</span>
                                     <span class="icon" aria-hidden="true"></span>
@@ -676,7 +676,7 @@
                                     <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
+                            <div>
                                 <button id="accordion-button-5" aria-expanded="false">
                                     <span class="accordion-title">What steps does V-Soft take to ensure successful project outcomes and satisfied clients?</span>
                                     <span class="icon" aria-hidden="true"></span>
@@ -685,7 +685,7 @@
                                     <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
+                            <div>
                                 <button id="accordion-button-5" aria-expanded="false">
                                     <span class="accordion-title">How does V-Soft support organizations in their digital transformation journey?</span>
                                     <span class="icon" aria-hidden="true"></span>
@@ -694,7 +694,7 @@
                                     <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
+                            <div>
                                 <button id="accordion-button-5" aria-expanded="false">
                                     <span class="accordion-title">How does V-Soft integrate AI into its business solutions?</span>
                                     <span class="icon" aria-hidden="true"></span>
