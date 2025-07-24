@@ -1,8 +1,8 @@
 <?php get_header(); ?>
 
     <main>
-        <section class="scroll-section case-s-sec" >
-            <div class="container mt-5">
+        <section class="case-s-sec pt-5 pb-5"  style="display: none">
+            <div class="container  ">
                 <div class="title-sec">
                     <h3>Case Studies</h3>
                     <h2>Success Stories That Speak About Our Expertise</h2>
@@ -70,7 +70,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item carousel-background">
+                    <!-- <div class="item carousel-background">
                         <div class="row">
                             <div class="col-lg-7 col-md-7 col-sm-7 col-7">
                                 <p class="section-title">
@@ -249,7 +249,7 @@
                                 <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/symbol-very-healthy-teeth-2.png">
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                 </div>
                 <div class="explore-cta">
@@ -258,8 +258,8 @@
             </div>
                 
         </section>
-        <section class="scroll-section feedback-sec" >
-            <div class="container mt-5">
+        <section class="feedback-sec pt-5 pb-5"  style="display: none">
+            <div class="container">
                 <div class="title-sec">
                     <h3>Feedback From Reality!</h3>
                     <h2 style="margin-bottom:0px">Read What Our Clients Say</h2>
@@ -305,7 +305,7 @@
                                                     <p style="margin: 15px 0px 5px 0px; line-height: 1.4;">“Executive Leader, SVP, recognized the value of the efforts and that ROI is already being realized because of this initiative. We were able to highlight the accomplishments of the internal!”</p>
 
                                                 </div>
-                                                <div class="industry-name" style="font-size: 15px; color: #2C2C2C; font-weight: 600;">Industry Name</div>
+                                                <div class="industry-name">Industry Name</div>
                                                 <div class="service-name">ServiceNow</div>
                                             </div>
                                             
@@ -335,8 +335,8 @@
                 
         </section>
         <!-- 18july25 -->
-        <section class="scroll-section we-serve-sec"  >
-            <div class="container mt-5">
+        <section class="we-serve-sec pt-5 pb-5"  style="display: none" >
+            <div class="container  ">
                 <div class="title-sec">
                     <h3>Industries We Serve</h3>
                     <h2 style="margin-bottom:0px">Tailored IT Solutions for Every Business Sector</h2>
@@ -410,7 +410,7 @@
                             </div>
                             <div class="industries-details details-green-bg">
                                 <p>Digitizing production floors and optimizing operations with intelligent automation. Our AI/ML and RPA solutions minimize downtime and drive robust industry transformation.</p>
-                                <button>know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
                             </div>
 
                         </div>
@@ -455,8 +455,8 @@
             </div>
         </section>
         <!-- 21Jul25 -->
-        <section class="scroll-section blog-sec">
-            <div class="container mt-5">
+        <section class="blog-sec pt-5 pb-5" style="display: none">
+            <div class="container  ">
                 <div class="title-sec">
                     <!-- <h3>Our Latest Blog Posts</h3> -->
                     <h2 style="margin-bottom:0px">Our Latest Blog Posts</h2>
@@ -564,7 +564,8 @@
                 </div>
             </div>
         </section>
-        <section class="scroll-section why-choose-vsoft-sec">
+
+        <section class="why-choose-vsoft-sec pt-5 pb-5"  style="display: none">
             <div class="row" >
                 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
@@ -629,16 +630,116 @@
                 </div>
             </div>
         </section>
-        <style>
-                  
-            </style>
+        <section class="why-choose-vsoft-sec pt-5 pb-5">
+             <div class="container">
+                <div class="row" >    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-6">          
+                        <h2 style="font-weight: 600; font-size: 100px; line-height: 120px; letter-spacing: 0%; vertical-align: middle; background: linear-gradient(to top, #253779 0%, #2E4EC7 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;">Frequently<br>Asked<br>Questions?</h2>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-6">
+                        <div class="accordion">
+                            <div class="accordion-item">
+                            <button id="accordion-button-1" aria-expanded="false">
+                                <span class="accordion-title">Does V-Soft provide scalable IT solutions that grow with my business?</span>
+                                <span class="icon" aria-hidden="true"></span>
+                            </button>
+                            <div class="accordion-content">
+                                <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
+                            </div>
+                            </div>
+                            <div class="accordion-item">
+                            <button id="accordion-button-2" aria-expanded="false">
+                                <span class="accordion-title">What sets V-Soft apart as a leader in IT staffing and consulting services?</span>
+                                <span class="icon" aria-hidden="true"></span>
+                            </button>
+                            <div class="accordion-content">
+                                <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
+                            </div>
+                            </div>
+                            <div class="accordion-item">
+                            <button id="accordion-button-3" aria-expanded="false">
+                                <span class="accordion-title">How is V-Soft’s recruiting process better than traditional staffing firms?</span>
+                                <span class="icon" aria-hidden="true"></span>
+                            </button>
+                            <div class="accordion-content">
+                                <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
+                            </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button id="accordion-button-4" aria-expanded="false">
+                                    <span class="accordion-title">What makes V-Soft Consulting a trusted ServiceNow Partner?</span>
+                                    <span class="icon" aria-hidden="true"></span>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button id="accordion-button-5" aria-expanded="false">
+                                    <span class="accordion-title">What steps does V-Soft take to ensure successful project outcomes and satisfied clients?</span>
+                                    <span class="icon" aria-hidden="true"></span>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button id="accordion-button-5" aria-expanded="false">
+                                    <span class="accordion-title">How does V-Soft support organizations in their digital transformation journey?</span>
+                                    <span class="icon" aria-hidden="true"></span>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button id="accordion-button-5" aria-expanded="false">
+                                    <span class="accordion-title">How does V-Soft integrate AI into its business solutions?</span>
+                                    <span class="icon" aria-hidden="true"></span>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>Yes! V-Soft offers flexible, scalable solutions that meet your growing business needs. Whether you're a startup or a brand, our IT consulting services and solutions scale with your changing needs so you’re always ready for what’s next.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             </div>          
+        </section>
+
+
+        
             
-        <section class="scroll-section" style="background: lightcoral;">
+        <!-- <section class="scroll-section" style="background: lightcoral;">
             <h2>Section 2</h2>
         </section>
         <section class="scroll-section" style="background: lightgreen;">
             <h2>Section 3</h2>
-        </section>
+        </section> -->
     </main>
     
+    <script>
+        
+const items = document.querySelectorAll('.accordion button');
+
+function toggleAccordion() {
+  const itemToggle = this.getAttribute('aria-expanded');
+
+  for (i = 0; i < items.length; i++) {
+    items[i].setAttribute('aria-expanded', 'false');
+  }
+
+  if (itemToggle == 'false') {
+    this.setAttribute('aria-expanded', 'true');
+  }
+}
+
+items.forEach((item) => item.addEventListener('click', toggleAccordion));
+
+
+
+
+        </script>
 <?php get_footer(); ?>

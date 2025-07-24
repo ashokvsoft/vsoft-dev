@@ -178,7 +178,7 @@ font-size: 18px;
 
 }
 .text-box{
-    margin: auto;
+    margin: 5px 0px;
 }
 
 .text-box h4 {
@@ -220,6 +220,9 @@ font-size: 18px;
     flex-direction: column;
     height: 100%;
     padding-bottom: 30px;
+}
+.industry-name{
+    font-size: 15px; color: #2C2C2C; font-weight: 600; margin-left: 3px;
 }
 
 .client-say {
@@ -303,23 +306,21 @@ font-size: 18px;
 .blog-sec img{
     width: 100%;
     overflow: hidden;
-    border-radius: 20px 20px 0px 0px;
-    height: 148px;
-
+    border-radius: 20px 20px 0px 0px;    
 }
 .blog-sec .details-sec{
     background-color: #F0F5FE;
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-radius: 0px 0px 20px 20px;
 }
 .details-sec .published-date{
     font-size: 14px;
-    margin-bottom: .6rem;
+    margin-bottom: 1rem;
 
 }
 .details-sec h2{
-    font-size: 18px;
-    margin-bottom: .6rem;
+    font-size: 20px;
+    margin-bottom: 1rem;
     font-weight: 600;
 }
 /* why-choose-vsoft-sec css */
@@ -343,19 +344,119 @@ font-size: 18px;
     }
     .top-bg{
         position: absolute;
-        top: 315px;
+        top: 25px;
         left: 0;
         z-index: 9;
     }
     .buttom-bg{
         z-index: 9;
         position: absolute;
-        bottom: 365px;
+        bottom: 90px;
         left: 0;
     }
     #expertise-carousel .owl-item .card{
         border-radius:0px;
     }
+
+    /* FAQ Section */
+    
+        .accordion{
+            color: #1B263B;
+        }
+        .accordion .accordion-item button[aria-expanded='true'] {
+        border-bottom: none
+        }
+
+        .accordion button {
+        position: relative;
+        display: block;
+        text-align: left;
+        width: 100%;
+        padding: 1em 0;
+        color: #7288a2;
+        font-size: 1.15rem;
+        font-weight: 400;
+        border: none;
+        background: none;
+        outline: none;
+        }
+
+        .accordion button:hover,
+        .accordion button:focus {
+        cursor: pointer;
+        color: #03b5d2;
+        }
+
+        .accordion button:hover::after,
+        .accordion button:focus::after {
+        cursor: pointer;
+        color: #03b5d2;
+        border: none;
+        }
+
+        .accordion button .accordion-title {
+        padding: 1em 1.5em 1em 0;
+        }
+
+        .accordion button .icon {
+        display: inline-block;
+        position: absolute;
+        top: 18px;
+        right: 0;
+        width: 22px;
+        height: 22px;
+        border: 1px solid;
+        border-radius: 22px;
+        }
+
+        .accordion button .icon::before {
+        display: block;
+        position: absolute;
+        content: '';
+        top: 9px;
+        left: 5px;
+        width: 10px;
+        height: 2px;
+        background: currentColor;
+        }
+        .accordion button .icon::after {
+        display: block;
+        position: absolute;
+        content: '';
+        top: 5px;
+        left: 9px;
+        width: 2px;
+        height: 10px;
+        background: currentColor;
+        }
+
+        .accordion button[aria-expanded='true'] {
+        color: #03b5d2;
+        }
+        .accordion button[aria-expanded='true'] .icon::after {
+        width: 0;
+        }
+        .accordion button[aria-expanded='true'] + .accordion-content {
+        opacity: 1;
+        max-height: 9em;
+        transition: all 200ms linear;
+        will-change: opacity, max-height;
+        }
+        .accordion .accordion-content {
+        opacity: 0;
+        max-height: 0;
+        overflow: hidden;
+        transition: opacity 200ms linear, max-height 200ms linear;
+        will-change: opacity, max-height;
+        }
+        .accordion .accordion-content p {
+        font-size: 1rem;
+        font-weight: 300;
+        margin: 2em 0;
+        }
+
+
+
 
 @media (max-width: 1200px) { 
     .we-serve-sec .serve-title-sec{
