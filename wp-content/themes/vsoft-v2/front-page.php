@@ -567,61 +567,80 @@
 
         <section class="why-choose-vsoft-sec pt-5 pb-5" >
             <div class="row" >
-                
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="title-sec">
+                        <h3>Why Choose V-Soft?</h3>
+                        <h2 style="margin-bottom:0px">We Are Your Strategic Partner in Digital Transformation</h2>
+                        <p>At V-Soft, a reliable IT services company, we don’t just deliver technology, we deliver results. With decades of experience,
+a people-first approach, and a passion for innovation, we help businesses automate, scale, and thrive in a digital-first world.</p>
+                    </div>
+                </div>
+                
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12 choose-slide">
                     <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Ellipse-top.png" class="top-bg">
                     <!-- Carousel Wrapper -->
-                    <div class="my-5 experties-slide" >
+                    <div class="experties-slide" >
                         <div class="owl-carousel owl-theme" id="expertise-carousel">
 
                             <!-- Slide 1 -->
                             <div class="item">
-                                <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                <div class="itembg">
+                                    <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
                                     <h6 class="text-primary mb-2">28+ Years of Proven Expertise</h6>
                                     <p class="mb-0 small">
                                     Certified professionals across ServiceNow, Salesforce, AI, RPA, MuleSoft, and more.
                                     </p>
                                 </div>
+                                </div>
                             </div>
 
                             <!-- Slide 2 -->
                             <div class="item">
-                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
-                                <h6 class="text-success mb-2">Client<br><span class="fw-bold">First Approach</span></h6>
-                                <p class="mb-0 small">
-                                We tailor every digital solution and service to your unique goals, workflows, & challenges.
-                                </p>
-                            </div>
+                                <div class="itembg">
+                                    <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                        <h6 class="text-success mb-2">Client First Approach</h6>
+                                        <p class="mb-0 small">
+                                        We tailor every digital solution and service to your unique goals, workflows, & challenges.
+                                        </p>
+                                    </div>
+                                </div>
+                            
                             </div>
 
                             <!-- Slide 3 -->
                             <div class="item">
-                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
-                                <h6 class="text-warning mb-2">Flexible Engagement<br>Models</h6>
-                                <p class="mb-0 small">
-                                We tailor every digital solution and service to your unique goals, workflows, & challenges.
-                                </p>
+                                <div class="itembg">
+                                    <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                        <h6 class="text-warning mb-2">Flexible Engagement Models</h6>
+                                        <p class="mb-0 small">
+                                        We tailor every digital solution and service to your unique goals, workflows, & challenges.
+                                        </p>
+                                    </div>
                             </div>
                             </div>
 
                             <!-- Slide 4 -->
                             <div class="item">
-                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
-                                <h6 class="text-danger mb-2">Innovation-Driven<br>Solutions</h6>
-                                <p class="mb-0 small">
-                                We combine cutting-edge technology with strategic thinking to fuel business growth.
-                                </p>
+                                <div class="itembg">
+                                    <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                        <h6 class="text-danger mb-2">Innovation-Driven Solutions</h6>
+                                        <p class="mb-0 small">
+                                        We combine cutting-edge technology with strategic thinking to fuel business growth.
+                                        </p>
+                                    </div>
                             </div>
                             </div>
 
                             <!-- Slide 5 -->
                             <div class="item">
-                            <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
-                                <h6 class="text-primary mb-2">Global Delivery and Excellence</h6>
-                                <p class="mb-0 small">
-                                With nearshore, offshore, and on-site options, faster services & cost savings are our focus.
-                                </p>
-                            </div>
+                                <div class="itembg">
+                                    <div class="card text-center border-0 shadow-sm h-100 py-4 px-2 bg-white">
+                                        <h6 class="text-primary mb-2">Global Delivery and Excellence</h6>
+                                        <p class="mb-0 small">
+                                        With nearshore, offshore, and on-site options, faster services & cost savings are our focus.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
 
                         </div>
@@ -634,9 +653,7 @@
              <div class="container">
                 <div class="row" >    
                     <div class="col-lg-6 col-md-6 col-sm-12 col-6">          
-                        <h2 style="font-weight: 600; font-size: 100px; line-height: 120px; letter-spacing: 0%; vertical-align: middle; background: linear-gradient(to top, #253779 0%, #2E4EC7 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;">Frequently<br>Asked<br>Questions?</h2>
+                        <h2 style="font-weight: 600; font-size: 100px; line-height: 120px; letter-spacing: 0%; vertical-align: middle; background: linear-gradient(to top, #253779 0%, #2E4EC7 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Frequently<br>Asked<br>Questions?</h2>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-6">
                         <div class="accordion">

@@ -329,10 +329,13 @@ font-size: 18px;
     font-weight: 600;
 }
 /* why-choose-vsoft-sec css */
+.why-choose-vsoft-sec{
+        background: linear-gradient(270deg, #FDF4F3 11.42%, #FEFEE8 35.74%, #F4F8ED 65.21%, #F0F5FE 89.79%);
+}
     .owl-carousel { display: block; }
 
     #expertise-carousel .owl-item .card {
-        min-height: 200px;
+        /* min-height: 200px; */
         border-radius: 12px;
         background: #fff;
         box-shadow: 0 4px 16px rgba(0,0,0,0.06);
@@ -340,27 +343,39 @@ font-size: 18px;
     #expertise-carousel .card h6 {
         font-weight: 700;
         font-size: 1.1rem;
+        /* margin-top: 80px; */
+    }
+    #expertise-carousel .itembg {
+        /* padding: 75px 0px 95px 0px; */
+        background: #ffffff;
     }
     #expertise-carousel .card p {
         color: #333;
     }   
-    .why-choose-vsoft-sec{
-        position: relative;
-    }
+    /* .why-choose-vsoft-sec{
+       
+    } */
     .top-bg{
         position: absolute;
-        top: 94px;
+        top: 0px;
         left: 0;
         z-index: 9;
+        width: 100%;
     }
     .buttom-bg{
         z-index: 9;
         position: absolute;
-        bottom: 90px;
+        bottom: 0px;
         left: 0;
+        width: 100%;
+    }
+    .choose-slide{
+        position: relative;
+        margin-top: 30px;
     }
     #expertise-carousel .owl-item .card{
         border-radius:0px;
+        padding: 110px 0px 95px 0px !important;
     }
 
     /* FAQ Section */
