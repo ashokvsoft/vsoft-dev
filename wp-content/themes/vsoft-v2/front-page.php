@@ -61,7 +61,7 @@
                                     </div>
                                 </div>
                                 <div class="cta-sec">
-                                    <button>Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
+                                    <button class="blue-button">Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
                                 </div>
                             </div>
                             <div class="col-lg-5 col-md-5 col-sm-5 col-12">
@@ -334,8 +334,8 @@
             </div>
                 
         </section>
-        <!-- 18july25 -->
-        <section class="we-serve-sec pt-5 pb-5"  >
+        
+        <section class="we-serve-sec pt-5 pb-5" >
             <div class="container  ">
                 <div class="title-sec">
                     <h3>Industries We Serve</h3>
@@ -356,7 +356,7 @@
                             </div>
                             <div class="industries-details details-yellow-bg">
                                 <p>Accelerate a secure, compliant, & customer centric financial world with V-Soft. Our solutions automate operations, increase customer trust, and maximize risk management.</p>
-                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                                <button class="button-nobg blue-button">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
                             </div>
 
                         </div>
@@ -373,8 +373,11 @@
                                 
                             </div>
                             <div class="industries-details details-red-bg">
-                                <p>From automating workflows to improving efficiencies, we deliver scalable digital solutions that modernize healthcare operations.</p>
-                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                                <p>From automating workflows to improving efficiencies, we deliver scalable digital solutions that modernize healthcare operations.
+                                    
+                                </p>
+                                <br>
+                                <button class="button-nobg blue-button">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
                             </div>
 
                         </div>
@@ -392,7 +395,7 @@
                             </div>
                             <div class="industries-details details-green-bg">
                                 <p>Provide personalized shopping experiences to your customers. Our IT consultants assist retailers in scaling quickly with automation, real-time insights, and omnichannel platforms.</p>
-                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                                <button class="button-nobg blue-button">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
                             </div>
 
                         </div>
@@ -410,7 +413,7 @@
                             </div>
                             <div class="industries-details details-green-bg">
                                 <p>Digitizing production floors and optimizing operations with intelligent automation. Our AI/ML and RPA solutions minimize downtime and drive robust industry transformation.</p>
-                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                                <button class="button-nobg blue-button">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
                             </div>
 
                         </div>
@@ -428,7 +431,7 @@
                             </div>
                             <div class="industries-details details-blue-bg">
                                 <p>From virtual learning platforms to automated workflows, V-Soft enables smarter learning environments and transforms how educational institutions deliver services.</p>
-                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                                <button class="button-nobg blue-button">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
                             </div>
 
                         </div>
@@ -446,7 +449,7 @@
                             </div>
                             <div class="industries-details details-yellow-bg">
                                 <p>Powering public services with efficient, citizen centered digital solutions. We assist agencies in automating processes, augmenting data security, and enhancing service delivery.</p>
-                                <button class="button-nobg">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
+                                <button class="button-nobg blue-button">know more <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button>
                             </div>
 
                         </div>
@@ -454,127 +457,32 @@
                 </div>
             </div>
         </section>
-        <!-- 21Jul25 -->
-        <section class="blog-sec pt-5 pb-5">
-            <div class="container  ">
-                <div class="title-sec">
-                    <!-- <h3>Our Latest Blog Posts</h3> -->
-                    <h2 style="margin-bottom:0px">Our Latest Blog Posts</h2>
-                    <p>Access NextGen IT Services That Drive Innovation and Accelerate Change Faster</p>
+      
+       
+
+        <section class="why-choose-vsoft-sec pt-5" >
+             <div class="container  ">
+                <div class="row" >
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="title-sec">
+                            <h3>Why Choose V-Soft?</h3>
+                            <h2 style="margin-bottom:0px">We Are Your Strategic Partner in Digital Transformation</h2>
+                            <p>At V-Soft, a reliable IT services company, we don’t just deliver technology, we deliver results. With decades of experience,
+                                a people-first approach, and a passion for innovation, we help businesses automate, scale, and thrive in a digital-first world.</p>
+                        </div>
+                    </div>
                 </div>
-                
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="card-bg">
-                            <div class="image-sec">
-                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
-                            </div>
-                            <div class="details-sec">
-                                <!-- published date -->
-                                <p class="published-date">Jun 11,2025</p>
-                                <!-- blog title coming form blog-title -->
-                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
-                                <!-- blog url  -->
-                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
-                            </div>
 
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="card-bg">
-                            <div class="image-sec">
-                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
-                            </div>
-                            <div class="details-sec">
-                                <!-- published date -->
-                                <p class="published-date">Jun 11,2025</p>
-                                <!-- blog title coming form blog-title -->
-                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
-                                <!-- blog url  -->
-                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="card-bg">
-                            <div class="image-sec">
-                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
-                            </div>
-                            <div class="details-sec">
-                                <!-- published date -->
-                                <p class="published-date">Jun 11,2025</p>
-                                <!-- blog title coming form blog-title -->
-                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
-                                <!-- blog url  -->
-                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="card-bg">
-                            <div class="image-sec">
-                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
-                            </div>
-                            <div class="details-sec">
-                                <!-- published date -->
-                                <p class="published-date">Jun 11,2025</p>
-                                <!-- blog title coming form blog-title -->
-                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
-                                <!-- blog url  -->
-                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="card-bg">
-                            <div class="image-sec">
-                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
-                            </div>
-                            <div class="details-sec">
-                                <!-- published date -->
-                                <p class="published-date">Jun 11,2025</p>
-                                <!-- blog title coming form blog-title -->
-                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
-                                <!-- blog url  -->
-                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="card-bg">
-                            <div class="image-sec">
-                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
-                            </div>
-                            <div class="details-sec">
-                                <!-- published date -->
-                                <p class="published-date">Jun 11,2025</p>
-                                <!-- blog title coming form blog-title -->
-                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
-                                <!-- blog url  -->
-                                <a href="" ><button class="button-nobg">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
-                            </div>
-
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-        </section>
-
-        <section class="why-choose-vsoft-sec pt-5 pb-5" >
+             </div>
             <div class="row" >
-                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="title-sec">
                         <h3>Why Choose V-Soft?</h3>
                         <h2 style="margin-bottom:0px">We Are Your Strategic Partner in Digital Transformation</h2>
                         <p>At V-Soft, a reliable IT services company, we don’t just deliver technology, we deliver results. With decades of experience,
-a people-first approach, and a passion for innovation, we help businesses automate, scale, and thrive in a digital-first world.</p>
+                            a people-first approach, and a passion for innovation, we help businesses automate, scale, and thrive in a digital-first world.</p>
                     </div>
-                </div>
+                </div> -->
                 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12 choose-slide">
                     <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Ellipse-top.png" class="top-bg">
@@ -649,7 +557,117 @@ a people-first approach, and a passion for innovation, we help businesses automa
                 </div>
             </div>
         </section>
-        <section class="why-choose-vsoft-sec pt-5 pb-5">
+
+         <section class="blog-sec pt-5 pb-5" >
+            <div class="container  ">
+                <div class="title-sec">
+                   
+                    <h2 style="margin-bottom:0px">Our Latest Blog Posts</h2>
+                    <p>Access NextGen IT Services That Drive Innovation and Accelerate Change Faster</p>
+                </div>
+                
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/blog-thumbnail.png">
+                            </div>
+                            <div class="details-sec details-blue-bg">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg blue-button">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Mask-group-1.png">
+                            </div>
+                            <div class="details-sec details-yellow-bg">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>Upgrading Legacy Systems: A Guide to Modernizing IT Infrastructure</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg blue-button">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Mask-group-2.png">
+                            </div>
+                            <div class="details-sec details-red-bg">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>RPA in Payroll: How Large Enterprises Automate Global Payroll Management</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg blue-button">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Mask-group-4.png">
+                            </div>
+                            <div class="details-sec details-yellow-bg">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>AI for Startups: How toLeverage Artificial Intelligence to Grow Fast</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg blue-button">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Mask-group-3.png">
+                            </div>
+                            <div class="details-sec details-blue-bg">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>A Complete Guide to Salesforce AppExchange</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg blue-button">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="card-bg">
+                            <div class="image-sec">
+                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/Mask-group.png">
+                            </div>
+                            <div class="details-sec details-green-bg">
+                                <!-- published date -->
+                                <p class="published-date">Jun 11,2025</p>
+                                <!-- blog title coming form blog-title -->
+                                <h2>The Benefits of Investing in Energy-Efficient Data Center Solutions</h2>
+                                <!-- blog url  -->
+                                <a href="" ><button class="button-nobg blue-button">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/> </svg></button></a>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <section class="faq-sec pt-5 pb-5" >
              <div class="container">
                 <div class="row" >    
                     <div class="col-lg-6 col-md-6 col-sm-12 col-6">          

@@ -131,7 +131,7 @@ gap: 15px;
 .cta-sec{
     margin-bottom: 20px;
 }
-.cta-sec button{
+.blue-button{
     background: linear-gradient(to top, #253779 0%, #2E4EC7 100%);
     border: none;
     padding: 10px 25px;
@@ -314,7 +314,7 @@ font-size: 18px;
     border-radius: 20px 20px 0px 0px;    
 }
 .blog-sec .details-sec{
-    background-color: #F0F5FE;
+    /* background-color: #F0F5FE; */
     padding: 15px 20px;
     border-radius: 0px 0px 20px 20px;
 }
@@ -331,6 +331,7 @@ font-size: 18px;
 /* why-choose-vsoft-sec css */
 .why-choose-vsoft-sec{
         background: linear-gradient(270deg, #FDF4F3 11.42%, #FEFEE8 35.74%, #F4F8ED 65.21%, #F0F5FE 89.79%);
+        padding-bottom: 8rem;
 }
     .owl-carousel { display: block; }
 
@@ -375,7 +376,7 @@ font-size: 18px;
     }
     #expertise-carousel .owl-item .card{
         border-radius:0px;
-        padding: 110px 0px 95px 0px !important;
+        padding: 150px 0px 140px 0px !important;
     }
 
     /* FAQ Section */
@@ -490,6 +491,54 @@ font-size: 18px;
             border-radius: 20px;
             padding: 30px;
         }
+
+        /* Footer section */
+        .footer-sec{
+                background-color: #04264D;
+                color: #ffffff;
+            }
+            .footer-sec input{
+                padding: 11.5px;
+                min-width: 270px;
+                border-radius: 10px 0px 0px 10px;
+                border: none;
+            }
+            .footer-sec .blue-button{
+                border-radius: 0px 10px 10px 0px; 
+            }
+            .footer-sec h6 {
+                font-weight: 700;
+                margin-bottom: 15px;
+            }
+            .footer-sec ul {
+                list-style: none;
+                padding-left: 0;
+            }
+            .footer-sec ul li {
+                margin-bottom: 8px;
+                font-size: 15px;
+            }
+            .footer-container {
+                max-width: 1100px;
+                margin: auto;
+            }
+            .multi-column-list {
+                column-count: 2; /* Number of columns */
+                column-gap: 32px; /* Space between columns */
+                max-height: 240px; /* Trigger column wrapping at this height */
+                min-height: 240px; 
+                overflow-y: auto; /* Optional scroll if content is too tall */
+            }
+            .multi-column-list ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .multi-column-list li {
+                margin-bottom: 8px;
+                break-inside: avoid; /* Prevents awkward breaks inside list items */
+            }
 
 @media (max-width: 1200px) { 
     .we-serve-sec .serve-title-sec{
