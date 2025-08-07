@@ -21,805 +21,19 @@ div.ruby-menu-demo-header {
     z-index: 99999
 }
 
-div.ruby-menu-demo-header-bg {
-    background: url(../img/bg.jpg)
-}
 
-div.ruby-menu-demo-header-bg div.ruby-menu-demo-download > span {
-    color: #efefef
-}
 
-div.ruby-menu-demo-header-bg div.ruby-menu-demo-download > span > span {
-    color: #efefef
-}
 
-div.ruby-menu-demo-description {
-    position: relative;
-    width: 980px;
-    height: 160px;
-    margin: 0 auto;
-    padding: 0
-}
 
-div.ruby-menu-demo-description img {
-    max-width: 200px;
-    float: left;
-    margin: 50px 20px 0 0
-}
 
-span.ruby-menu-demo-highlight {
-    color: #333
-}
-
-div.ruby-menu-demo-bg-light,div.ruby-menu-demo-bg-dark {
-    width: 980px;
-    height: auto;
-    position: relative;
-    background: #fff;
-    margin: 0 auto;
-    font-family: 'Open Sans',sans-serif;
-    font-size: 16px
-}
-
-div.ruby-menu-demo-bg-dark {
-    background: efefef
-}
-
-div.ruby-menu-demo-bg-light-c:after,div.ruby-menu-demo-bg-dark-c:after {
-    content: "";
-    display: table;
-    clear: both
-}
-
-div.ruby-menu-demo-cv-1 {
-    float: left;
-    width: 33%
-}
-
-div.ruby-menu-demo-cv-2 {
-    float: left;
-    width: 67%
-}
-
-div.ruby-menu-demo-cv-3 {
-    float: left;
-    width: 48%
-}
-
-div.ruby-menu-demo-cv-4 {
-    float: left;
-    width: 52%
-}
-
-div.ruby-menu-demo-cr-1 {
-    float: left;
-    width: 33%
-}
-
-div.ruby-menu-demo-cr-2 {
-    float: left;
-    width: 66%
-}
-
-div.ruby-menu-demo-cs-1 {
-    float: left;
-    width: 33%
-}
-
-div.ruby-menu-demo-cs-2 {
-    float: left;
-    width: 66%
-}
-
-div.ruby-menu-demo-cf-1,div.ruby-menu-demo-cf-2,div.ruby-menu-demo-cf-3,div.ruby-menu-demo-cf-4 {
-    float: left;
-    width: 25%;
-    text-align: center
-}
-
-div.ruby-menu-demo-f-icon {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    margin: 0 auto;
-    padding: 22px;
-    font-size: 30px;
-    background: #efefef;
-    color: #aaa
-}
-
-div.ruby-menu-demo-f-title {
-    width: 100%;
-    height: 30px;
-    margin: 0 auto;
-    margin-top: 20px;
-    font-weight: 700;
-    font-size: 18px
-}
-
-div.ruby-menu-demo-f-desc {
-    font-size: 14px;
-    line-height: 24px;
-    color: #555;
-    padding: 15px
-}
-
-div.ruby-menu-demo-cs-1 table {
-    line-height: 20px
-}
-
-div.ruby-menu-demo-cs-1 table tr,div.ruby-menu-demo-cs-1 table td {
-    padding: 0;
-    font-weight: 700
-}
-
-div.ruby-menu-demo-cs-1 table td:last-child {
-    padding-top: 5px
-}
-
-h2.ruby-menu-demo-slogan-1,h3.ruby-menu-demo-slogan-1 {
-    font-size: 20px;
-    font-weight: 300;
-    text-transform: uppercase;
-    color: #b1b1b1;
-    margin: 0
-}
-
-h1.ruby-menu-demo-slogan-2,h3.ruby-menu-demo-slogan-2 {
-    font-size: 36px;
-    font-weight: 700;
-    text-transform: none;
-    color: #222;
-    margin: 0
-}
-
-p.ruby-menu-demo-slogan-description,p.ruby-menu-demo-slogan-description-2 {
-    font-size: 16px;
-    line-height: 24px;
-    color: #444;
-    margin: 35px 0
-}
-
-p.ruby-menu-demo-slogan-description-2 {
-    color: #666;
-    font-weight: 600;
-    margin: -10px 0
-}
-
-span.ruby-menu-demo-code {
-    color: #888;
-    text-decoration: underline
-}
-
-td.ruby-menu-demo-theme-td-1 {
-    max-width: 30px;
-    text-align: left;
-    padding: 6px
-}
-
-td.ruby-menu-demo-theme-td-2 {
-    min-width: 120px;
-    text-align: left;
-    padding: 6px
-}
-
-td.ruby-menu-demo-theme-td-1:hover {
-    cursor: pointer
-}
-
-.ruby-menu-demo-circle {
-    border-radius: 50%;
-    width: 24px;
-    height: 24px;
-    border: 4px solid #222;
-    display: inline-block;
-    margin: 0
-}
-
-.ruby-menu-demo-color-1 {
-    background: #1aad86
-}
-
-.ruby-menu-demo-color-2 {
-    background: #0c67c2
-}
-
-.ruby-menu-demo-color-3 {
-    background: #ce0661
-}
-
-.ruby-menu-demo-color-4 {
-    background: #ea7500
-}
-
-.ruby-menu-demo-color-5 {
-    background: #74ba27
-}
-
-.ruby-menu-demo-color-6 {
-    background: #ff3264
-}
-
-.ruby-menu-demo-color-7 {
-    background: #fad814
-}
-
-.ruby-menu-demo-color-8 {
-    background: #ccc
-}
-
-.ruby-menu-demo-color-9 {
-    background: #111;
-    border-color: #ccc
-}
-
-.ruby-menu-demo-color-10 {
-    background: #036de2;
-    border-color: #489efd
-}
-
-.ruby-menu-demo-color-11 {
-    background: #f85252;
-    border-color: #444
-}
-
-.ruby-menu-demo-color-12 {
-    background: #ca79d0;
-    border-color: #f2def3
-}
-
-.ruby-menu-demo-color-13 {
-    background: #efefef;
-    border-color: #222
-}
-
-.ruby-menu-demo-color-14 {
-    background: #ccc
-}
-
-div.ruby-menu-demo-download {
-    position: absolute;
-    width: auto;
-    top: 55px;
-    right: 0
-}
-
-div.ruby-menu-demo-download .fa {
-    font-size: 20px;
-    margin-right: 10px
-}
-
-div.ruby-menu-demo-download > span {
-    font-size: 16px;
-    display: block;
-    margin: 10px 26px
-}
-
-div.ruby-menu-demo-download > span > span {
-    font-size: 20px;
-    color: #555;
-    font-weight: 700
-}
-
-button.ruby-btn {
-    background: #19ad86;
-    border: 2px solid #19ad86;
-    color: #fff;
-    border-radius: 0;
-    padding: 10px 25px;
-    font-size: 16px;
-    font-weight: 700;
-    cursor: pointer
-}
-
-button.ruby-btn:hover {
-    background: #fff;
-    color: #19ad86
-}
-
-.switch {
-    display: table-cell;
-    vertical-align: middle;
-    padding: 10px
-}
-
-.cmn-toggle {
-    position: absolute;
-    margin-left: -9999px;
-    visibility: hidden
-}
-
-.cmn-toggle + label {
-    display: block;
-    position: relative;
-    cursor: pointer;
-    outline: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none
-}
-
-input.cmn-toggle-round + label {
-    padding: 2px;
-    margin-top: -10px;
-    width: 40px;
-    height: 20px;
-    background-color: #ddd;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
-    border-radius: 20px
-}
-
-input.cmn-toggle-round + label:before,input.cmn-toggle-round + label:after {
-    display: block;
-    position: absolute;
-    top: 1px;
-    left: 1px;
-    bottom: 1px;
-    content: ""
-}
-
-input.cmn-toggle-round + label:before {
-    right: 1px;
-    background-color: #f1f1f1;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
-    border-radius: 20px;
-    -webkit-transition: background .4s;
-    -moz-transition: background .4s;
-    -o-transition: background .4s;
-    transition: background .4s
-}
-
-input.cmn-toggle-round + label:after {
-    width: 18px;
-    background-color: #fff;
-    -webkit-border-radius: 100%;
-    -moz-border-radius: 100%;
-    -ms-border-radius: 100%;
-    -o-border-radius: 100%;
-    border-radius: 100%;
-    -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    -moz-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    -webkit-transition: margin .4s;
-    -moz-transition: margin .4s;
-    -o-transition: margin .4s;
-    transition: margin .4s
-}
-
-input.cmn-toggle-round:checked + label:before,input.cmn-toggle-on + label:before {
-    background-color: #8ce196
-}
-
-input.cmn-toggle-round:checked + label:after,input.cmn-toggle-on + label:after {
-    margin-left: 20px
-}
-
-input.cmn-toggle-on:checked + label:before {
-    background-color: #f1f1f1
-}
-
-input.cmn-toggle-on:checked + label:after {
-    margin-left: 0
-}
-
-img.iphone7 {
-    max-width: 350px;
-    float: right;
-    margin-right: 0
-}
 
 @media(min-width: 768px) and (max-width:991px) {
     body {
         overflow-x:hidden
     }
 
-    div.ruby-menu-demo-description {
-        position: relative;
-        width: 760px;
-        height: 160px;
-        margin: 0 auto;
-        padding: 0
-    }
+    
 
-    div.ruby-menu-demo-description img {
-        max-width: 200px;
-        float: left;
-        margin: 50px 20px 0 0
-    }
-
-    div.ruby-menu-demo-bg-light,div.ruby-menu-demo-bg-dark {
-        width: 760px;
-        font-size: 14px
-    }
-
-    div.ruby-menu-demo-cs-1 {
-        width: 27%
-    }
-
-    div.ruby-menu-demo-cs-2 {
-        width: 73%
-    }
-
-    td.ruby-menu-demo-theme-td-1 {
-        max-width: 27px;
-        padding: 7px
-    }
-
-    td.ruby-menu-demo-theme-td-2 {
-        min-width: 100px;
-        padding: 7px
-    }
-
-    .ruby-menu-demo-circle {
-        width: 22px;
-        height: 22px;
-        border: 3px solid #222
-    }
-
-    img.iphone7 {
-        max-width: 320px;
-        float: right;
-        margin-right: 20px
-    }
-}
-
-@media(max-width: 767px) {
-    div.ruby-menu-demo-header {
-        width:100%;
-        height: auto
-    }
-
-    div.ruby-menu-demo-description {
-        width: 100%;
-        margin: 0 auto;
-        margin-bottom: 220px;
-        padding: 10px;
-        text-align: center
-    }
-
-    div.ruby-menu-demo-description img {
-        float: none;
-        margin: 90px 0 0
-    }
-
-    div.ruby-menu-demo-download {
-        position: relative;
-        width: auto;
-        top: 25px;
-        right: auto;
-        left: auto
-    }
-
-    div.ruby-menu-demo-download > span {
-        font-size: 20px;
-        margin: 25px auto
-    }
-
-    div.ruby-menu-demo-download > span > span {
-        font-size: 26px
-    }
-
-    button.ruby-btn {
-        padding: 14px 25px;
-        font-size: 16px;
-        text-transform: uppercase
-    }
-
-    div.ruby-menu-demo-bg-light.ruby-menu-demo-switches {
-        display: none
-    }
-
-    div.ruby-menu-demo-bg-light,div.ruby-menu-demo-bg-dark {
-        width: 100%;
-        font-size: 16px;
-        padding: 25px;
-        margin-bottom: -100px
-    }
-
-    div.ruby-menu-demo-cv-1 {
-        width: 100%
-    }
-
-    div.ruby-menu-demo-cv-2 {
-        width: 100%
-    }
-
-    div.ruby-menu-demo-cv-3 {
-        width: 100%
-    }
-
-    div.ruby-menu-demo-cv-4 {
-        width: 100%
-    }
-
-    div.ruby-menu-demo-cr-1 {
-        width: 100%
-    }
-
-    div.ruby-menu-demo-cr-2 {
-        width: 100%;
-        margin-top: 40px
-    }
-
-    div.ruby-menu-demo-cf-1,div.ruby-menu-demo-cf-2,div.ruby-menu-demo-cf-3,div.ruby-menu-demo-cf-4 {
-        float: left;
-        width: 50%;
-        text-align: center
-    }
-
-    div.ruby-menu-demo-f-desc {
-        margin-bottom: 30px
-    }
-
-    img.iphone7 {
-        max-width: 300px;
-        float: none;
-        margin-right: 0 auto
-    }
-}
-
-
-/* theme */
-
-div.ruby-wrapper,div.ruby-wrapper.ruby-vertical {
-    background: #f9f9f9;
-    color: #222
-}
-
-ul.ruby-menu > li > a {
-    color: #222
-}
-
-
-ul.ruby-menu.ruby-menu-dividers > li > a,ul.ruby-menu.ruby-menu-dividers > li.ruby-menu-social > a {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #fff
-}
-
-ul.ruby-menu.ruby-menu-dividers > li:first-child > a,ul.ruby-menu.ruby-menu-dividers > li.ruby-menu-social:last-child > a {
-    border-left: none
-}
-
-ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li > a {
-    border: none;
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #fff
-}
-
-ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li:first-child > a {
-    border-top: none
-}
-
-ul.ruby-menu.ruby-menu-dividers > li > a:hover,ul.ruby-menu.ruby-menu-dividers > li:hover > a {
-    border-left: 1px solid #222;
-    border-right: 1px solid #222
-}
-
-ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li > a:hover,ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li:hover > a {
-    border-bottom: 1px solid #222
-}
-
-ul.ruby-menu.ruby-menu-dividers > li.ruby-active-menu-item > a {
-    border-left: 1px solid #efefef;
-    border-right: 1px solid #fff
-}
-
-ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li.ruby-active-menu-item > a {
-    border-bottom: 1px solid #fff;
-    border-left: none;
-    border-right: none
-}
-
-ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li > a {
-    border-left: none;
-    border-right: none
-}
-
-ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li.ruby-active-menu-item > a:hover,ul.ruby-menu.ruby-vertical.ruby-menu-dividers > li.ruby-active-menu-item:hover > a {
-    border-bottom: 1px solid #222;
-    border-left: none
-}
-
-ul.ruby-menu > li > ul,ul.ruby-menu > li > ul > li > ul,ul.ruby-menu > li > ul > li > ul > li > ul {
-    border-top: 4px solid #222
-}
-
-ul.ruby-menu > li > ul > li > a,ul.ruby-menu > li > ul > li > ul > li > a,ul.ruby-menu > li > ul > li > ul > li > ul > li > a {
-    background: #fff;
-    color: #666
-}
-
-ul.ruby-menu > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > a:hover,ul.ruby-menu > li > ul > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > ul > li > a:hover,ul.ruby-menu > li > ul > li > ul > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > ul > li > ul > li > a:hover {
-    background: #efefef
-}
-
-ul.ruby-menu > li.ruby-menu-mega > div,ul.ruby-menu > li.ruby-menu-mega-know > div,ul.ruby-menu > li.ruby-menu-mega-shop > div {
-    background: #fff;
-    border-top: 4px solid #222
-}
-
-ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav {
-    background: #efefef
-}
-
-ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li > a {
-    background: #efefef;
-    color: #666
-}
-
-ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li.ruby-active-menu-item > a {
-    background: #e6e6e6
-}
-
-ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li > div {
-    background: #fff
-}
-
-ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li:hover > a {
-    background: #ddd
-}
-
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul {
-    background: #efefef;
-    border-bottom: 1px solid #ddd
-}
-
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a {
-    color: #666
-}
-
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div {
-    background: #fff
-}
-
-ul.ruby-menu > li.ruby-menu-mega > div ul li > a,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div ul > li > a {
-    color: #555
-}
-
-ul.ruby-menu > li.ruby-menu-mega > div ul li > a:hover,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div ul > li > a:hover {
-    color: #222
-}
-
-ul.ruby-menu > li.ruby-menu-mega > div ul.ruby-list-with-images li span.ruby-list-desc {
-    color: #999
-}
-
-span.ruby-c-title,span.ruby-c-title a {
-    color: #222
-}
-
-span.ruby-c-title a:hover,span.ruby-c-category,span.ruby-c-category a,span.ruby-c-date,span.ruby-c-date a {
-    color: #444
-}
-
-span.ruby-c-category a:hover,span.ruby-c-date a:hover {
-    color: #222
-}
-
-@media(min-width: 768px) {
-    ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a:before,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a:after {
-        background-color:#222
-    }
-
-    ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a:hover {
-        color: #333
-    }
-
-    ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li.ruby-active-menu-item > a:after,ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li:hover > a:after {
-        border-color: transparent #fff transparent transparent
-    }
-}
-
-@media(max-width: 767px) {
-    ul.ruby-menu > li > a {
-        background:#efefef
-    }
-
-    ul.ruby-menu > li > a:hover,ul.ruby-menu > li:hover > a,ul.ruby-menu > li.ruby-active-menu-item > a:hover {
-        background: #ccc;
-        color: #111
-    }
-
-    ul.ruby-menu > li.ruby-active-menu-item > a {
-        background: #ccc
-    }
-
-    ul.ruby-menu > li > ul > li > a,ul.ruby-menu > li > ul > li > ul > li > a,ul.ruby-menu > li > ul > li > ul > li > ul > li > a,ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li > a,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a {
-        background: #d1d1d1
-    }
-
-    ul.ruby-menu > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > a:hover,ul.ruby-menu > li > ul > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > ul > li > a:hover,ul.ruby-menu > li > ul > li > ul > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > ul > li > ul > li > a:hover {
-        background: #d9d9d9;
-        color: #111
-    }
-
-    ul.ruby-menu > li > ul > li > ul > li > a {
-        background: #e5e5e5
-    }
-
-    ul.ruby-menu > li > ul > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > ul > li > a:hover {
-        background: #e1e1e1
-    }
-
-    ul.ruby-menu > li > ul > li > ul > li > ul > li > a {
-        background: #efefef
-    }
-
-    ul.ruby-menu > li > ul > li > ul > li > ul > li:hover > a,ul.ruby-menu > li > ul > li > ul > li > ul > li > a:hover {
-        background: #fff
-    }
-
-    ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li.ruby-active-menu-item > a {
-        background: #bcbcbc
-    }
-
-    ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li:hover > a {
-        background: #d9d9d9
-    }
-
-    ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li.ruby-active-menu-item > a {
-        background: #bcbcbc
-    }
-
-    ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li:hover > a,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a:hover,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li.ruby-active-menu-item > a {
-        background: #d9d9d9
-    }
-
-    span.ruby-dropdown-toggle:after {
-        color: #fff
-    }
-
-    ul.ruby-menu > li > a:before,ul.ruby-menu > li > ul > li > a:before,ul.ruby-menu > li > ul > li > ul > li > a:before,ul.ruby-menu > li > ul > li > ul > li > ul > li > a:before,ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li > a:before,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a:before {
-        background: #333
-    }
-
-    ul.ruby-menu > li > ul > li > a:before,ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li > a:before,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a:before {
-        background: #555
-    }
-
-    ul.ruby-menu > li > ul > li > ul > li > a:before {
-        background: #777
-    }
-
-    ul.ruby-menu > li > ul > li > ul > li > ul > li > a:before {
-        background: #999
-    }
-
-    .c-hamburger span {
-        background: #222
-    }
-
-    .c-hamburger span::before,.c-hamburger span::after {
-        background-color: #222
-    }
-
-    .c-hamburger--htx {
-        background-color: #efefef;
-        color: #222
-    }
-
-    .c-hamburger--htx.is-active {
-        background-color: #ddd
-    }
-
-    ul.ruby-menu > li.ruby-menu-mega > div,ul.ruby-menu > li.ruby-menu-mega-know > div,ul.ruby-menu > li.ruby-menu-mega-shop > div {
-        border-top: none
-    }
-
-    ul.ruby-menu > li > ul,ul.ruby-menu > li > ul > li > ul,ul.ruby-menu > li > ul > li > ul > li > ul {
-        border-top: none
-    }
-
-    ul.ruby-menu.ruby-menu-dividers > li,ul.ruby-menu.ruby-menu-dividers > li > a,ul.ruby-menu.ruby-menu-dividers > li.ruby-menu-social > a,ul.ruby-menu.ruby-menu-dividers > li > a:hover,ul.ruby-menu.ruby-menu-dividers > li:hover > a {
-        border: none
-    }
 }
 
 /* transision */
@@ -1148,7 +362,7 @@ ul.ruby-menu > li.ruby-menu-mega > div,ul.ruby-menu > li.ruby-menu-mega-know > d
     top: 50px;
     left: 0;
     background: #fff;
-    border-top: 4px solid #19ad86;
+    border-top: 4px solid none;
     overflow: hidden;
     -webkit-box-shadow: 0 8px 24px -5px #ccc;
     -moz-box-shadow: 0 8px 24px -5px #ccc;
@@ -1161,20 +375,22 @@ ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav {
     height: 100%;
     left: 0;
     top: 0;
-    background: #efefef
+    background: #ffffff;    
 }
 
 ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li {
     font-size: 14px;
     margin: 20px 0px 15px 100px;
+    /* width: 25%; */
+    width: 100%;
 }
 
 ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li > a {
     display: block;
     line-height: 40px;
     padding: 0 15px;
-    background: #efefef;
-    color: #666;
+    background: #ffffff;
+    color: #04264D;
     text-decoration: none
 }
 
@@ -1193,14 +409,13 @@ ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li > 
 }
 
 ul.ruby-menu > li.ruby-menu-mega-know > div > ul.ruby-menu-mega-know-nav > li:hover > a {
-    background: #ddd;
+    background: #DEE9FB;
 }
 
 ul.ruby-menu > li.ruby-menu-mega-shop > div {
     text-align: center;
     z-index: 999999
 }
-
 ul.ruby-menu > li.ruby-menu-mega-shop > div > ul {
     width: 100%;
     background: #efefef;
@@ -1211,41 +426,7 @@ ul.ruby-menu > li.ruby-menu-mega-shop > div > ul {
     z-index: 100
 }
 
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li {
-    display: inline-block;
-    margin: 0
-}
 
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a {
-    display: block;
-    padding: 20px 15px;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 14px;
-    font-stretch: expanded;
-    color: #666
-}
-
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li:hover > a,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a:hover,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li.ruby-active-menu-item > a {
-    text-decoration: none
-}
-
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > a {
-    position: relative;
-    text-decoration: none;
-    display: inline-block
-}
-
-ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div {
-    position: absolute;
-    width: 100%;
-    left: 0;
-    top: auto;
-    margin-top: 1px;
-    text-align: left;
-    background: #fff;
-    z-index: -1
-}
 
 div.ruby-grid,div.ruby-grid-lined {
     position: relative;
@@ -1257,7 +438,10 @@ div.ruby-grid,div.ruby-grid-lined {
 div.ruby-grid > div.ruby-row {
     position: relative;
     width: 100%;
-    height: auto
+    height: auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
 }
 
 div.ruby-grid > div.ruby-row div.ruby-row [class^="ruby-col"] {
@@ -1268,14 +452,14 @@ div.ruby-grid > div.ruby-row div.ruby-row:first-of-type [class^="ruby-col"] {
     margin-top: 0
 }
 
-div.ruby-grid.ruby-grid-lined > div.ruby-row:after {
+/* div.ruby-grid.ruby-grid-lined > div.ruby-row:after {
     content: "";
     width: 100%;
     height: 1px;
     left: 0;
     bottom: 0;
     background: -webkit-linear-gradient(left,rgba(204,204,204,0) 0%,rgba(204,204,204,0.48) 24%,rgba(204,204,204,1) 50%,rgba(204,204,204,0.42) 79%,rgba(204,204,204,0) 100%)
-}
+} */
 
 div.ruby-grid.ruby-grid-lined > div.ruby-row:last-child:after {
     height: 0
@@ -1314,7 +498,8 @@ div.ruby-grid > div.ruby-row div.ruby-col-2 {
 }
 
 div.ruby-grid > div.ruby-row div.ruby-col-3 {
-    width: 25%
+    width: 100%;
+    height: 365px;
 }
 
 div.ruby-grid > div.ruby-row div.ruby-col-4 {
@@ -1353,7 +538,7 @@ div.ruby-grid > div.ruby-row div.ruby-col-12 {
     width: 100%
 }
 
-div.ruby-grid.ruby-grid-lined > div.ruby-row > div[class^="ruby-col"]:after {
+/* div.ruby-grid.ruby-grid-lined > div.ruby-row > div[class^="ruby-col"]:after {
     content: "";
     position: absolute;
     top: 0;
@@ -1361,7 +546,7 @@ div.ruby-grid.ruby-grid-lined > div.ruby-row > div[class^="ruby-col"]:after {
     height: 100%;
     right: 0;
     background: -webkit-linear-gradient(top,rgba(204,204,204,0) 0%,rgba(204,204,204,0.48) 24%,rgba(204,204,204,1) 50%,rgba(204,204,204,0.42) 79%,rgba(204,204,204,0) 100%)
-}
+} */
 
 div.ruby-grid.ruby-grid-lined > div.ruby-row > div[class^="ruby-col"]:last-child:after {
     width: 0
@@ -1381,34 +566,7 @@ h3.ruby-list-heading {
     margin: 0
 }
 
-ul.ruby-menu > li.ruby-menu-mega > div ul,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div ul {
-    margin: 0;
-    margin-top: 10px
-}
 
-ul.ruby-menu > li.ruby-menu-mega > div ul li,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div ul > li {
-    position: relative;
-    font-size: 14px;
-    line-height: 28px;
-    display: block;
-    width: 100%
-}
-
-ul.ruby-menu > li.ruby-menu-mega > div ul li > a,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div ul > li > a {
-    text-decoration: none;
-    color: #555;
-    display: inline-block
-}
-
-ul.ruby-menu > li.ruby-menu-mega > div ul li > a:hover,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div ul > li > a:hover {
-    color: #222;
-    text-decoration: underline
-}
-
-ul.ruby-menu > li.ruby-menu-mega > div ul li .fa,ul.ruby-menu > li.ruby-menu-mega-shop > div > ul > li > div ul > li .fa {
-    position: relative;
-    width: 24px
-}
 
 ul.ruby-menu > li.ruby-menu-mega > div ul.ruby-list-with-images li {
     height: 50px
@@ -1553,6 +711,23 @@ span.ruby-c-content {
         opacity: 0
     }
 
+    .ruby-menu-mega-know .nav-bg-image{
+        
+        background-attachment: fixed; 
+        background-size: cover;
+    }
+    .nav-bg-image p{
+        display: flex;
+        align-content: space-around;
+        flex-direction: column;
+        justify-content: flex-end;
+        height: 365px;
+        padding-bottom: 52px;
+        /* background: linear-gradient(0deg, rgba(37, 55, 121, 0.8) 0%, rgba(46, 78, 199, 0) 100%); */
+        color: #ffffff;
+        width: 100%;
+    }
+    
     ul.ruby-menu > li.ruby-menu-mega:hover > div,ul.ruby-menu > li.ruby-menu-mega-know:hover > div,ul.ruby-menu > li.ruby-menu-mega-shop:hover > div {
         visibility: visible;
         opacity: 1

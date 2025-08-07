@@ -73,7 +73,7 @@ menu ref from this menu in blog same layout we can achive as for our design -->
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="item carousel-background">
+                    <div class="item carousel-background">
                         <div class="row">
                             <div class="col-lg-7 col-md-7 col-sm-7 col-7">
                                 <p class="section-title">
@@ -125,7 +125,7 @@ menu ref from this menu in blog same layout we can achive as for our design -->
                                     </div>
                                 </div>
                                 <div class="cta-sec">
-                                    <button>Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
+                                    <button class="blue-button">Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
                                 </div>
                             </div>
                             <div class="col-lg-5 col-md-5 col-sm-5 col-12">
@@ -188,9 +188,9 @@ menu ref from this menu in blog same layout we can achive as for our design -->
                                     <button>Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
                                 </div>
                             </div>
-                            <div class="col-lg-5 col-md-5 col-sm-5 col-12">
-                                <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/symbol-very-healthy-teeth-3.png">
-                            </div>
+                            <div class="cta-sec">
+                                    <button class="blue-button">Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
+                                </div>
                         </div>
                     </div>
                     <div class="item carousel-background">
@@ -245,14 +245,14 @@ menu ref from this menu in blog same layout we can achive as for our design -->
                                     </div>
                                 </div>
                                 <div class="cta-sec">
-                                    <button>Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
+                                    <button class="blue-button">Know More <svg fill="#ffffff" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <g data-name="Layer 2"> <g data-name="diagonal-arrow-right-up"> <rect width="24" height="24" transform="rotate(180 12 12)" opacity="0"/> <path d="M18 7.05a1 1 0 0 0-1-1L9 6a1 1 0 0 0 0 2h5.56l-8.27 8.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0L16 9.42V15a1 1 0 0 0 1 1 1 1 0 0 0 1-1z"/> </g> </g> </svg></button>
                                 </div>
                             </div>
                             <div class="col-lg-5 col-md-5 col-sm-5 col-12">
                                 <img src="http://localhost/vsoft-dev/wp-content/uploads/2025/07/symbol-very-healthy-teeth-2.png">
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                     
                 </div>
                 <div class="explore-cta">
